@@ -203,7 +203,7 @@ We use mean mean value for that 5-minute interval to replace the NA values.
     
     # 3 Close the graphics device        
     dev.off()
-```r    
+```
 
 
 ![Total number of steps each day (NA replaced)](figure/plot3.png)
